@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to 顷刻](README.md)
+* [Welcome](README.md)
 
 ## 😀 基础教程 <a href="#start" id="start"></a>
 
