@@ -19,11 +19,11 @@ description: 海内存知己，天涯若比邻
 v2ray 订阅 （适用于 v2rayN, Qv2ray 等）
 
 ```
-https://cdn.jsdelivr.net/gh/iaraanx/qingke/sub.txt
+https://go.qingke.cf/easEZK
 ```
 
 clash 订阅
 
 ```
-https://api.v1.mk/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fiaraanx%2Fqingke%2Fsub.txt&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&sort=false&new_name=true
+https://go.qingke.cf/wJB3Sx
 ```
